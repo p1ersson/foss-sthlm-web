@@ -20,45 +20,45 @@ TITLE(Free and Open Source Software - entusiaster i Stockholm)
 <div class="frontbox">
 SUBTITLE(foss-sthlm)
 
-<p> Vi är folk intresserade av FOSS i Stockholms-området. En del bara
- som hobby, men många av oss även professionellt.  "FOSS" står
-förstås för <a
+<p> Vi Ã¤r folk intresserade av FOSS i Stockholms-omrÃ¥det. En del bara
+ som hobby, men mÃ¥nga av oss Ã¤ven professionellt.  "FOSS" stÃ¥r
+fÃ¶rstÃ¥s fÃ¶r <a
 href="https://en.wikipedia.org/wiki/Free_and_open_source_software">Free and
-Open Source Software</a>. Ibland även kallat FLOSS.
+Open Source Software</a>. Ibland Ã¤ven kallat FLOSS.
 
-<p> Vi jobbar på fler träffar med gelikar bland Free Software- och Open
-Source-folk i det här området. Användare javisst, men gärna
-utvecklare och hackers också. Entusiaster. Doers. Hackers. <i>Av oss. Med oss. För oss!</i>
+<p> Vi jobbar pÃ¥ fler trÃ¤ffar med gelikar bland Free Software- och Open
+Source-folk i det hÃ¤r omrÃ¥det. AnvÃ¤ndare javisst, men gÃ¤rna
+utvecklare och hackers ocksÃ¥. Entusiaster. Doers. Hackers. <i>Av oss. Med oss. FÃ¶r oss!</i>
 
 <p>
- Gå med vår <a href="/listor.html">mailinglista</a> och häng på!
-Vi ser gärna att vi får så många olika projekt och grupperingar
+ GÃ¥ med vÃ¥r <a href="/listor.html">mailinglista</a> och hÃ¤ng pÃ¥!
+Vi ser gÃ¤rna att vi fÃ¥r sÃ¥ mÃ¥nga olika projekt och grupperingar
 representerade och intresserade!
 
-<p> Vi är nästan 400 personer på mailinglistan, men se gärna till att
-informera era egna kontakter om vår existens så att vi når ut bättre.
+<p> Vi Ã¤r nÃ¤stan 400 personer pÃ¥ mailinglistan, men se gÃ¤rna till att
+informera era egna kontakter om vÃ¥r existens sÃ¥ att vi nÃ¥r ut bÃ¤ttre.
 
 </div>
 
 <div class="frontbox">
 SUBTITLE(Oberoende och obundna)
 
-<p> Vi är inte organiserade i något speciellt läger. Vi är
- öppna och intresserade av FOSS från alla håll. Linux/BSD/Hurd,
+<p> Vi Ã¤r inte organiserade i nÃ¥got speciellt lÃ¤ger. Vi Ã¤r
+ Ã¶ppna och intresserade av FOSS frÃ¥n alla hÃ¥ll. Linux/BSD/Hurd,
  emacs/vi/pico, C/python/perl/java/Smalltalk/LISP, GNOME/KDE/Xfce spelar ingen
  roll!
 
 <p>
- Vi är ingen formell förening och vi har inga avgifter.
+ Vi Ã¤r ingen formell fÃ¶rening och vi har inga avgifter.
 
 <p>
- Alla är välkomna!
+ Alla Ã¤r vÃ¤lkomna!
 
 <p> <a href="https://www.foss-sthlm.se/namnpolicy.html">Namnpolicyn</a>
-berättar hur vi hanterar namn och email-adresser!
+berÃ¤ttar hur vi hanterar namn och email-adresser!
 
 <p>
- Admin för listan och servern här är daniel at haxx punkt se, men använd helst
+ Admin fÃ¶r listan och servern hÃ¤r Ã¤r daniel at haxx punkt se, men anvÃ¤nd helst
  mailinglistan.
 </div>
 
@@ -68,7 +68,7 @@ berättar hur vi hanterar namn och email-adresser!
 
 SUBTITLE(Sponsorer)
 <p>
- Följande företag har varit med och sponsrat foss-sthlm-evenemang:
+ FÃ¶ljande fÃ¶retag har varit med och sponsrat foss-sthlm-evenemang:
 
 <p>
 <a href="https://www.academicwork.se/">Academic Work</a>,
@@ -79,7 +79,7 @@ SUBTITLE(Sponsorer)
 <a href="http://www.enea.com/">Enea</a>,
 <a href="https://www.haxx.se/">Haxx</a>,
 <a href="https://www.init.se/">Init</a>,
-<a href="http://www.ekholm.se/">M Ekholms konsulttjänst AB</a>,
+<a href="http://www.ekholm.se/">M Ekholms konsulttjÃ¤nst AB</a>,
 <a href="https://www.msc.se/">MSC</a>,
 <a href="https://www.nohup.se/">Nohup</a>,
 <a href="https://www.iis.se/">.SE</a>,
@@ -94,39 +94,39 @@ SUBTITLE(Sponsorer)
 <div class="frontbox">
 SUBTITLE(IRC)
 <p>
- Vi hänger på IRC i kanalen <b>#foss-sthlm</b> på freenode.
+ Vi hÃ¤nger pÃ¥ IRC i kanalen <b>#foss-sthlm</b> pÃ¥ Libera Chat.
 </div>
 
 <div class="frontbox">
 SUBTITLE(I samma anda)
 <p>
- Andra sammanslutningar som delar mycket av våra värderingar och tankar:
+ Andra sammanslutningar som delar mycket av vÃ¥ra vÃ¤rderingar och tankar:
 <p>
  <a href="http://geekgirlmeetup.com/">GeekGirl Meetup</a><br>
  <a href="https://www.owasp.org/index.php/Sweden">OWASP Sweden</a><br>
- <a href="http://svenskalinuxforeningen.se/">Svenska Linuxföreningen</a>
+ <a href="http://svenskalinuxforeningen.se/">Svenska LinuxfÃ¶reningen</a>
 </div>
 
 #if 0
 <div class="frontbox">
 SUBTITLE(I media)
 <p>
-  6 Maj 2010: <a href="https://www.internetdagarna.se/track/ip-och-infrastruktur/foss-mote-26-okt">Nätverket foss-sthlm på Internetdagarna 26 okt!</a>
+  6 Maj 2010: <a href="https://www.internetdagarna.se/track/ip-och-infrastruktur/foss-mote-26-okt">NÃ¤tverket foss-sthlm pÃ¥ Internetdagarna 26 okt!</a>
 <p>
-  12 jan 2010: <a href="https://www.internetdagarna.se/track/anvandarnas-internet/traffa-andra-foss-hackers-i-stockholm">Träffa andra FOSS-hackers i Stockholm!</a><br>
+  12 jan 2010: <a href="https://www.internetdagarna.se/track/anvandarnas-internet/traffa-andra-foss-hackers-i-stockholm">TrÃ¤ffa andra FOSS-hackers i Stockholm!</a><br>
 <p>
-  14 dec 2009: <a href="http://blogg.idg.se/openforce/entry.jsp?messid=13518">Stockholmare och open source:are? Se då hit!</a>
+  14 dec 2009: <a href="http://blogg.idg.se/openforce/entry.jsp?messid=13518">Stockholmare och open source:are? Se dÃ¥ hit!</a>
 </div>
 #endif
 
 <div class="frontbox">
 
-SUBTITLE(Projekt som är "representerade" i regionen)
+SUBTITLE(Projekt som Ã¤r "representerade" i regionen)
 
 <p>
-Dvs en eller fler stockholmare som bidrar i någon grad till ett projekt
-räknas dit. Folk som kanske kan svara på frågor om projektet eller
-köra en dragning.
+Dvs en eller fler stockholmare som bidrar i nÃ¥gon grad till ett projekt
+rÃ¤knas dit. Folk som kanske kan svara pÃ¥ frÃ¥gor om projektet eller
+kÃ¶ra en dragning.
 
 <p>
  <a href="http://www.asterisk.org/">Asterisk</a>,
@@ -186,11 +186,11 @@ köra en dragning.
  yk-ksm,
  yk-val
 
-och många fler!
+och mÃ¥nga fler!
 
 </ul>
 <p>
-<small> Skicka länkar till projekten så kommer de in...</small>
+<small> Skicka lÃ¤nkar till projekten sÃ¥ kommer de in...</small>
 </div>
 
 #include "footer.t"
